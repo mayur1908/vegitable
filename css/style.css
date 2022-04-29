@@ -1,0 +1,96 @@
+.navbar{
+    background-color:#00ff55;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.nav-item{
+    font-size: 25px;
+    border-radius: 30px;
+    border: none;
+    padding-right: 10px;
+    padding-left: 10;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 2px 2px 3px black;
+    margin-left: 20px;
+}
+.header{
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-top: 20px;
+}
+.Vegitable{
+height: 200px;
+width: 350px;
+border-radius: 20px;
+margin:10px;
+box-shadow: 0px 0px 10px black;
+border: 1px solid black;
+}
+.Vegitable:hover{
+    box-shadow: 8px 8px 8px black;
+}
+.header-section{
+    display: inline-block;
+    width: 40%;
+  text-align: left;
+  
+    vertical-align: top;
+}
+.tagline{
+    font-size: 30px;
+    color: red;
+}
+.btn-header{
+    margin: 8px;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 0px 30px 0px 30px;
+    size: 40px;
+}
+.btn-order-now{
+color: bisque;
+background-color: blueviolet;
+size: 50px;
+}
+.btn-call-Us{
+background-color:darkblue;
+color:red;
+}
+.h-center{
+text-align: center;
+}
+.feature-item{
+height: 200px;
+width: 200px;
+background-color: antiquewhite;
+display: inline-block;
+padding: 10px;
+margin-left: 20px;
+margin-right: 20px;
+border-radius: 20px;
+box-shadow: 0px 0px 10px black;
+cursor: pointer;
+}
+.feature-item:hover{
+    box-shadow: 5px 5px 10px black;
+}
+.feature-container{
+    text-align: center;
+    
+}
+.feature-icon{
+    font-size: 60px;
+}
+.feature-icon-centre{
+    background-color:aliceblue ;
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
